@@ -1,1 +1,0 @@
-# eyas-django-oscar
